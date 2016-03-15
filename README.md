@@ -1,2 +1,2 @@
 # DataStructure_and_Algorithm
-DataStructure_and_Algorithm_Problem_in_C++
+DataStructure and Algorithm Classic Problem Solution written in C++
